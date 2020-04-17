@@ -56,7 +56,7 @@ The categories provide the most common vectors by which covert channel communica
 If a category has been assigned an analyzer identifier (e.g. `frame-timing-entropy`), that category has an applicable analyzer built into pcap-anom-detect.
 If no identifier is present, the category is not checked in the current implementation.
 
-Categorization based upon [Wendzel, Steffen, et al.](#references).
+Categorization based upon [Wendzel, Steffen, et al.](#references)
 ![Categorization Heriarchy](https://github.com/cetaSYN/pcap-anom-detect/blob/master/docs/images/heirarchy.png)
 
 #### Size Modulation Pattern
